@@ -1,0 +1,134 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Dependency Injection\\InversionOfControl\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EBA2EFCB-8392-497D-9FD7-9DD53CB2FA42}|ConstructorDI\\DependencyINjection.csproj|d:\\dependency injection\\inversionofcontrol\\constructordi\\controllers\\dicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EBA2EFCB-8392-497D-9FD7-9DD53CB2FA42}|ConstructorDI\\DependencyINjection.csproj|solutionrelative:constructordi\\controllers\\dicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EBA2EFCB-8392-497D-9FD7-9DD53CB2FA42}|ConstructorDI\\DependencyINjection.csproj|d:\\dependency injection\\inversionofcontrol\\constructordi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EBA2EFCB-8392-497D-9FD7-9DD53CB2FA42}|ConstructorDI\\DependencyINjection.csproj|solutionrelative:constructordi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EBA2EFCB-8392-497D-9FD7-9DD53CB2FA42}|ConstructorDI\\DependencyINjection.csproj|d:\\dependency injection\\inversionofcontrol\\constructordi\\services\\caching.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EBA2EFCB-8392-497D-9FD7-9DD53CB2FA42}|ConstructorDI\\DependencyINjection.csproj|solutionrelative:constructordi\\services\\caching.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EBA2EFCB-8392-497D-9FD7-9DD53CB2FA42}|ConstructorDI\\DependencyINjection.csproj|d:\\dependency injection\\inversionofcontrol\\constructordi\\services\\shareddevices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EBA2EFCB-8392-497D-9FD7-9DD53CB2FA42}|ConstructorDI\\DependencyINjection.csproj|solutionrelative:constructordi\\services\\shareddevices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EBA2EFCB-8392-497D-9FD7-9DD53CB2FA42}|ConstructorDI\\DependencyINjection.csproj|d:\\dependency injection\\inversionofcontrol\\constructordi\\services\\hitcounters.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EBA2EFCB-8392-497D-9FD7-9DD53CB2FA42}|ConstructorDI\\DependencyINjection.csproj|solutionrelative:constructordi\\services\\hitcounters.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EBA2EFCB-8392-497D-9FD7-9DD53CB2FA42}|ConstructorDI\\DependencyINjection.csproj|d:\\dependency injection\\inversionofcontrol\\constructordi\\services\\service.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EBA2EFCB-8392-497D-9FD7-9DD53CB2FA42}|ConstructorDI\\DependencyINjection.csproj|solutionrelative:constructordi\\services\\service.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EBA2EFCB-8392-497D-9FD7-9DD53CB2FA42}|ConstructorDI\\DependencyINjection.csproj|d:\\dependency injection\\inversionofcontrol\\constructordi\\services\\iservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EBA2EFCB-8392-497D-9FD7-9DD53CB2FA42}|ConstructorDI\\DependencyINjection.csproj|solutionrelative:constructordi\\services\\iservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DIController.cs",
+              "DocumentMoniker": "D:\\Dependency Injection\\InversionOfControl\\ConstructorDI\\Controllers\\DIController.cs",
+              "RelativeDocumentMoniker": "ConstructorDI\\Controllers\\DIController.cs",
+              "ToolTip": "D:\\Dependency Injection\\InversionOfControl\\ConstructorDI\\Controllers\\DIController.cs",
+              "RelativeToolTip": "ConstructorDI\\Controllers\\DIController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-21T06:58:45.03Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Caching.cs",
+              "DocumentMoniker": "D:\\Dependency Injection\\InversionOfControl\\ConstructorDI\\Services\\Caching.cs",
+              "RelativeDocumentMoniker": "ConstructorDI\\Services\\Caching.cs",
+              "ToolTip": "D:\\Dependency Injection\\InversionOfControl\\ConstructorDI\\Services\\Caching.cs",
+              "RelativeToolTip": "ConstructorDI\\Services\\Caching.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-21T07:11:55.69Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "SharedDevices.cs",
+              "DocumentMoniker": "D:\\Dependency Injection\\InversionOfControl\\ConstructorDI\\Services\\SharedDevices.cs",
+              "RelativeDocumentMoniker": "ConstructorDI\\Services\\SharedDevices.cs",
+              "ToolTip": "D:\\Dependency Injection\\InversionOfControl\\ConstructorDI\\Services\\SharedDevices.cs",
+              "RelativeToolTip": "ConstructorDI\\Services\\SharedDevices.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-21T07:11:34.649Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "HitCounters.cs",
+              "DocumentMoniker": "D:\\Dependency Injection\\InversionOfControl\\ConstructorDI\\Services\\HitCounters.cs",
+              "RelativeDocumentMoniker": "ConstructorDI\\Services\\HitCounters.cs",
+              "ToolTip": "D:\\Dependency Injection\\InversionOfControl\\ConstructorDI\\Services\\HitCounters.cs",
+              "RelativeToolTip": "ConstructorDI\\Services\\HitCounters.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-21T07:11:16.759Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Dependency Injection\\InversionOfControl\\ConstructorDI\\Program.cs",
+              "RelativeDocumentMoniker": "ConstructorDI\\Program.cs",
+              "ToolTip": "D:\\Dependency Injection\\InversionOfControl\\ConstructorDI\\Program.cs",
+              "RelativeToolTip": "ConstructorDI\\Program.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-21T07:03:00.713Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Service.cs",
+              "DocumentMoniker": "D:\\Dependency Injection\\InversionOfControl\\ConstructorDI\\Services\\Service.cs",
+              "RelativeDocumentMoniker": "ConstructorDI\\Services\\Service.cs",
+              "ToolTip": "D:\\Dependency Injection\\InversionOfControl\\ConstructorDI\\Services\\Service.cs",
+              "RelativeToolTip": "ConstructorDI\\Services\\Service.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-21T06:55:54.514Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "IService.cs",
+              "DocumentMoniker": "D:\\Dependency Injection\\InversionOfControl\\ConstructorDI\\Services\\IService.cs",
+              "RelativeDocumentMoniker": "ConstructorDI\\Services\\IService.cs",
+              "ToolTip": "D:\\Dependency Injection\\InversionOfControl\\ConstructorDI\\Services\\IService.cs",
+              "RelativeToolTip": "ConstructorDI\\Services\\IService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAIAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-21T06:55:18.161Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
